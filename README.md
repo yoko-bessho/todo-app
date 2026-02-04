@@ -2,5 +2,5 @@
 - JavaScriptとtailwindcssで作成
 
 ## イメージ画像
-![images](full.png)
-![images](phone-size.png)
+![images](images/full.png)
+![images](images/phone-size.png)
